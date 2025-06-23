@@ -1,1 +1,11 @@
-..
+/* Styles for all h1 labels */
+h1 {
+  color: #4A90E2;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 30px 0 10px 0;
+  letter-spacing: 2px;
+  text-shadow: 1px 1px 4px #aaa;
+}
